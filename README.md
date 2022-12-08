@@ -8,3 +8,5 @@ Funksjonalitet:
   - Opprette kokebøker
   - Kopiere inn oppskrifter fra feks Meny.no. 
   - Sortering av oppskrifter
+
+
