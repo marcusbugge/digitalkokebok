@@ -1,6 +1,6 @@
 ## DIgital kokebok 🍲🕮
 
-Digital kokebok som skal utvikles i React, NodeJS og en database.
+Digital kokebok som skal utvikles i React (TypeScript), NodeJS og en database.
  
 Funksjonalitet:
 
